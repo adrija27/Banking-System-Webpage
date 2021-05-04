@@ -1,0 +1,53 @@
+#bimg{
+	background-image: url('assign/YFF.jpg');
+	height: 641px;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-position: left;
+	padding-top: 0px;
+	margin-top: 0px;
+}
+#content{
+	float: right;
+	text-align: center;
+	padding: 30px 50px;
+	margin-top: -64px;
+	color: #ffffff;
+	max-width: 356px;
+	height: 642px;
+	background-color: rgba(104,50,65,0.9);
+}
+.navbar{
+	margin-bottom: 0px;
+}
+
+#products{
+	width:90%;
+    margin:10px;
+    
+    margin-left:30px;
+}
+.thumbnails{
+	
+    text-align: center;
+    color: #468499;
+    padding: 10px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    height: 270px;
+    
+}
+.connect{
+	text-align: center;
+    color: #f2fafd;
+    padding: 10px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    height: 270px;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-right: 10px solid #ffffff;
+    border-left: 10px solid #ffffff;
+    border-bottom: 15px solid #ffffff;
+}
+
+
